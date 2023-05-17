@@ -7,7 +7,6 @@ My First Repository
 3. Loki
 4. Falcon and Winter Soldier
 5. X-Files
-6. ```
 # Movies
 ## Top 5
 1. Iron Man
