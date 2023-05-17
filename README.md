@@ -5,7 +5,7 @@ My First Repository
 1. Grimm
 2. Supernatural
 3. Loki
-4. Falcon and Winter Soldier
+4. The Falcon and The Winter Soldier
 5. X-Files
 # Movies
 ## Top 5
