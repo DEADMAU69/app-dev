@@ -11,6 +11,7 @@ My First Repository
 # Andrew Padilla
 ## Movie
 ![](https://s3.amazonaws.com/media.thecrimson.com/photos/2014/11/07/202918_1301040.jpg)
+![](https://media1.tenor.com/images/d4e0a2c8f77f501a16903752ec4ad6d9/tenor.gif?itemid=13153831) ![](https://www.laguiadelvaron.com/wp-content/uploads/2018/01/giphy-15.gif)
 1. John Wick Chapter 1
 - In New York City, John Wick is grieving the death of his wife Helen, who had arranged for John to receive a beagle puppy to help him cope with her loss. A few days later, a group of Russian gangsters led by Iosef Tarasov accosts John at a gas station and fail to intimidate him into selling them his 1969 Boss 429 Mustang. That night, they break into John's home, assault him, kill the puppy, and steal the car. Iosef takes the Mustang to a chop shop to remove its identifying details, but the shop owner Aurelio, recognizing the vehicle, refuses service. Aurelio informs John that Iosef is the son of Viggo Tarasov, the boss of New York City's Russian mafia.
 ### Favorite line from the movie ###
@@ -18,6 +19,7 @@ My First Repository
 # Aeron Dejusco
 ## Movie
 ![](https://wallpapercave.com/wp/wp9016273.jpg)
+![](https://media1.tenor.com/images/8b7447d170347cacc6cfb160b079a628/tenor.gif?itemid=13364560) ![](https://c.tenor.com/0jh02fFgm1kAAAAC/transformers-age-of-extinction-optimus-prime.gif)
 1. The Transformers
 - It is a fantasy movie that two alien robot factions at war that can transform into other forms, such as vehicles and animals. The fate of humanity is at stake when two races of robots. The good Autobots and the villainous Decepticons, bring their war to Earth.
 ### Favorite line from the movie ###
